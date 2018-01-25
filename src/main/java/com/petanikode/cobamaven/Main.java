@@ -18,7 +18,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
  *
  * @author petanikode
  */
-public class Hello {
+public class Main {
 
     public static void main(String[] args) {
 
